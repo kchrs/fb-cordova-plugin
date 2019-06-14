@@ -1,0 +1,28 @@
+{
+  "name": "FbLogin",
+  "version": "0.0.1",
+  "description": "fb login and get token",
+  "repository": {
+    "type": "git",
+    "url": "REPO"
+  },
+  "cordova": {
+    "id": "fb-login",
+    "platforms": [
+      "iOS,Android"
+    ]
+  },
+  "keywords": [
+    "FbLogin",
+    "ionic-FbLogin",
+    "cordova FbLogin",
+    "cordova",
+    "phonegap",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "ios",
+    "ionic"
+  ],
+  "author": "kchrs",
+  "license": "MIT"
+}
