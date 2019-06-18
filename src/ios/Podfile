@@ -9,7 +9,6 @@ pod 'FacebookCore'
 pod 'FacebookLogin'
 pod 'FacebookShare'
 pod 'Toaster'
-
 # Pods for IceCreamShop
 
 end

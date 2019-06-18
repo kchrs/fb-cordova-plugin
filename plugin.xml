@@ -14,6 +14,11 @@
         <!--
         Add in any class declaration names here so that they can be accessed by Cordova. Else the plugin will fail.
         -->
+        <pod name="Alamofire" version="4.4.0" />
+        <pod name="FacebookCore" />
+        <pod name="FacebookLogin" />
+        <pod name="FacebookShare" />
+        <pod name="Toaster" />
 
             <feature name="FbLogin">
                 <param name="ios-package" value="FbLogin" />
