@@ -33,5 +33,8 @@
        
         <!-- Add in the swift-support plugin by default -->
         <dependency id="cordova-plugin-add-swift-support" version="2.0.2"/>
+            
+        <!-- Add in the cocoapods support -->
+        <dependency id="cordova-plugin-cocoapod-support"/>
     </platform>
 </plugin>
