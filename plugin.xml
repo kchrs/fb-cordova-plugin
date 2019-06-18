@@ -9,6 +9,9 @@
     </js-module>
 
     <platform name="ios">
+    <preference name="UseSwiftLanguageVersion" value="5" />
+
+    <preference name="UseSwiftLanguageVersion" value="5" />
         <config-file target="config.xml" parent="/*">
 
         <!--
